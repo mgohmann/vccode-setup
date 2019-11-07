@@ -8,7 +8,7 @@
 
 1. Open **VS Code**.
 2. Click **View**, click **Extensions**.
-3. In the** Search Extensions in Marketplace** box type "PowerShell".
+3. In the **Search Extensions in Marketplace** box type "PowerShell".
 4. Click **PowerShell**, click **Install**.
 5. Close **VS Code**.
 
